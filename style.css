@@ -308,6 +308,9 @@ footer .column > a:hover {
 }
 
 @media (width < 900px) {
+     .nav-logo{
+        display: none;
+    }
     .nav-links {
         display: none;
     }
